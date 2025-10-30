@@ -10,7 +10,7 @@ This interview evaluates your ability to solve problems efficiently using core d
 * Effectively analyze time and space complexity (Big O notation) for performance optimization.
 * Write clean, modular, and well-structured code that handles edge cases and errors gracefully.
 * Debug and iterate efficiently within a timed coding environment (CoderPad).
-* Communicate your thought process clearly and logically throughout problem￾solving.
+* Communicate your thought process clearly and logically throughout problem-solving.
 
 ## Core Data Structures to Master
 
@@ -71,7 +71,7 @@ To be fully prepared:
 
 ## Example Coding Questions
 
-1. **Data Structure Design:** This is a coding question where you’ll be writing code to design data structures optimized for reads and writes in the language of your choice. It’ll have nothing to do with AI/ML or complex algorithms. You’re free to Google standard library functionality during the interview. You’ll be evaluated on your problem-solving ability and ability to write clean, well￾designed code.
+1. **Data Structure Design:** This is a coding question where you’ll be writing code to design data structures optimized for reads and writes in the language of your choice. It’ll have nothing to do with AI/ML or complex algorithms. You’re free to Google standard library functionality during the interview. You’ll be evaluated on your problem-solving ability and ability to write clean, well-designed code.
 2. **Time-Based Information Tracking:** This is a coding question where you’ll be writing code to track time-based information in the language of your choice.
 
 Candidate Prep Guide - Coding 3
@@ -105,7 +105,7 @@ Candidate Prep Guide - Coding 4
 ### JavaScript
 
 * asynchronous operations – js is single-threaded but async by nature, so understanding callbacks, promises, and `async/await` is important for performance.
-* prototype-based inheritance – js handles inheritance differently than class￾based languages. get familiar with prototypes and how inheritance is managed.
+* prototype-based inheritance – js handles inheritance differently than class-based languages. get familiar with prototypes and how inheritance is managed.
 * collections + iteration – js has strong support for objects and arrays, but be mindful of performance with large data sets. methods like `.map()` , `.filter()` , and `.reduce()` are powerful.
 
 Candidate Prep Guide - Coding 5
